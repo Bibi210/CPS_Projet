@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../BCM4Java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BCM4Java"
+	}
+}
